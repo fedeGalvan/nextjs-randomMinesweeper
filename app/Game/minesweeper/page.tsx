@@ -11,7 +11,7 @@ export default function Page() {
   };
 
   return (
-    <div className="minesweeper-wrapper flex flex-col justify-center items-center mt-[10vh] mx-5">
+    <div className="bg-black min-h-[100dvh] flex flex-col justify-center items-center mt-[10vh] mx-5">
       <h1 className="text-2xl font-extrabold text-center text-gradient  mb-6">
         MineSweeper
       </h1>
